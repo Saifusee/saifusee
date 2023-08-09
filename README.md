@@ -7,8 +7,6 @@
   
 - 🌱 I’m currently learning **Django and various web development technologies and tools**
 
-- 🔭 I had completed working on the project [Digix](https://github.com/Saifusee/digix)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Saifusee](https://github.com/Saifusee)
 
 - 💬 Ask me about **Python, Django, Javascript, HTML, CSS and MySQL**
