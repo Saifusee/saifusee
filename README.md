@@ -2,7 +2,9 @@
 <h3 align="center">Passionate for Web Development and Back-End Development with Django-Python</h3>
 
 - 🔭 I’m currently working on [Timezup](https://github.com/Saifusee/timezup)
-
+  
+- 🔭 I had completed working on the project [Digix](https://github.com/Saifusee/digix)
+  
 - 🌱 I’m currently learning **Django and various web development technologies and tools**
 
 - 🔭 I had completed working on the project [Digix](https://github.com/Saifusee/digix)
@@ -16,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-saiful-haque-khan-74398211b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-saiful-haque-khan-74398211b/" height="30" width="40" /></a>
+<a href="https://github.com/saifusee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/guthub-in-alt.svg" alt="https://www.github.com/in/saifusee/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
