@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saifusee](https://github.com/Saifusee)
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oBvYuLWcfoUs4C9aSJsKATqQgzfx8LIx/view?usp=drive_link](https://drive.google.com/file/d/1oBvYuLWcfoUs4C9aSJsKATqQgzfx8LIx/view?usp=drive_link)
+
 - 💬 Ask me about **Python, Django, Javascript, HTML, CSS and MySQL**
 
 - 📫 How to reach me **mohammadsaifulkhan9829@gmail.com**
